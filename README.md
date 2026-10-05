@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0856-score-of-parentheses) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
