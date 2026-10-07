@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0746-min-cost-climbing-stairs](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Sorting
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
