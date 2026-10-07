@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
