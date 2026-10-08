@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0746-min-cost-climbing-stairs](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
+## Linked List
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
