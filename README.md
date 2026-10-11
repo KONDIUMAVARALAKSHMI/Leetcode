@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
