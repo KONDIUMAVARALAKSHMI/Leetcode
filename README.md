@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0383-ransom-note) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
