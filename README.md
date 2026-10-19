@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0746-min-cost-climbing-stairs](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
