@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0746-min-cost-climbing-stairs](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
