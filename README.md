@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
