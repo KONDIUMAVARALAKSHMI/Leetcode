@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Array
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -75,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
