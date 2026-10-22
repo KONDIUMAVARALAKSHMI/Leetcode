@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0383-ransom-note) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
