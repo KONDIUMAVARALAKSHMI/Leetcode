@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0383-ransom-note) |
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2326-spiral-matrix-iv](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
