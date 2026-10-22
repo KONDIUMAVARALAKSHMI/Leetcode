@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0383-ransom-note) |
+| [0541-reverse-string-ii](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0856-score-of-parentheses](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0541-reverse-string-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
