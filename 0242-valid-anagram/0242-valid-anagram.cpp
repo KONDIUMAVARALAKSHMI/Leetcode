@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int m = s.size();
-        int n = t.size();
+       
         int freq[26] = {0};
         int freq2[26] = {0};
         for(char ch : s){
