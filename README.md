@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0217-contains-duplicate) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
