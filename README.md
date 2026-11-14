@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
