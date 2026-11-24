@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quicksort
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KONDIUMAVARALAKSHMI/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
